@@ -1,29 +1,32 @@
 # 🩺 DrNeural.com | Clinical Diagnostic Engine
-> **System Status:** Phase 2 Deployment (Neural-Core Optimization)
 
----
+![Status](https://img.shields.io/badge/Status-Phase_2_Deployment-blue)
+![Tech](https://img.shields.io/badge/Tech-Quantum--Ready-orange)
+![Security](https://img.shields.io/badge/Compliance-HIPAA%20%2F%20GDPR-green)
 
 ## 🔬 Project Vision
-The **DrNeural** framework is designed to integrate advanced deep learning models into clinical diagnostic workflows. This repository serves as the centralized technical hub for the **DrNeural.com** infrastructure.
+The **DrNeural** framework is designed to integrate advanced deep learning models into clinical diagnostic workflows. We are currently bridging the gap between classical neuroimaging and **Quantum Coherence** models for early-stage biomarker detection.
 
-### 🚀 Key Technical Assets:
-* **NeuroCore-V1:** Specialized CNN architecture for high-resolution MRI analysis.
-* **Clinical-Bridge API:** Secure data transmission protocol for HealthTech startups.
-* **Predictive Diagnostics:** Early-stage pattern recognition for neurological disorders.
+This repository serves as the centralized technical hub for the **DrNeural.com** infrastructure.
 
----
+## 🚀 Key Technical Assets
+* **NeuroCore-V1:** Specialized CNN architecture for high-resolution MRI and PET scan analysis.
+* **Clinical-Bridge API:** Secure, encrypted data transmission protocol for HealthTech startups.
+* **Predictive Diagnostics:** Early-stage pattern recognition for Parkinson’s and other neurological disorders.
 
 ## 🛠 Tech Stack & Integration
 * **Languages:** Python 3.10+, CUDA for GPU acceleration.
-* **Libraries:** TensorFlow, PyTorch, SciKit-Learn.
-* **Compliance:** Architecture designed with HIPAA/GDPR data integrity in mind.
+* **Frameworks:** TensorFlow, PyTorch, SciKit-Learn.
+* **Focus:** Real-time neural signal processing and microtubule-level data synthesis.
 
 ---
 
-## 💼 Commercial & Strategic Acquisitions
-For inquiries regarding the **DrNeural.com** premium brand, digital assets, and integrated technical framework, please refer to our official listing:
+## 💼 Strategic Acquisition & Licensing
+The **DrNeural.com** premium brand identity and its associated technical architecture are currently available for strategic acquisition or licensing. 
 
-👉 **[View DrNeural.com on Afternic](https://drneural.com)**
+> [!IMPORTANT]
+> **To secure the global brand rights and domain infrastructure, please proceed via the official secure transfer portal:**
+> ### 🔗 [View DrNeural.com on Afternic (GoDaddy Brand)](https://www.afternic.com/domain/drneural.com)
 
 ---
-*© 2026 Neural Diagnostics HQ. All rights reserved.*
+© 2026 Neural Diagnostics HQ. All rights reserved.
