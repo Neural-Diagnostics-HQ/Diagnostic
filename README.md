@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="IMG_3863.jpeg" alt="DrNeural.com | Clinical AI Diagnostics Framework" width="100%">
+</p>
 # 🩺 DrNeural.com | Clinical Diagnostic Engine
 
 ![Status](https://img.shields.io/badge/Status-Phase_2_Deployment-blue)
