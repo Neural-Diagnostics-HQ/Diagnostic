@@ -1,4 +1,3 @@
-IMG_3860.jpeg
 # 🩺 DrNeural.com | Clinical Diagnostic Engine
 
 ![Status](https://img.shields.io/badge/Status-Phase_2_Deployment-blue)
