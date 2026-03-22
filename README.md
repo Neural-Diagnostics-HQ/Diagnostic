@@ -1,4 +1,3 @@
-IMG_3860.jpeg
 # 🩺 DrNeural.com | Clinical Diagnostic Engine
 > **System Status:** Phase 2 Deployment (Neural-Core Optimization)
 
